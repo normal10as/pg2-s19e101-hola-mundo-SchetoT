@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e101-hola-mundo-SchetoT\HolaMundoST\HolaMundoST\bin\Debug\netcoreapp3.1\HolaMundoST.exe
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e101-hola-mundo-SchetoT\HolaMundoST\HolaMundoST\bin\Debug\netcoreapp3.1\HolaMundoST.deps.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e101-hola-mundo-SchetoT\HolaMundoST\HolaMundoST\bin\Debug\netcoreapp3.1\HolaMundoST.runtimeconfig.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e101-hola-mundo-SchetoT\HolaMundoST\HolaMundoST\bin\Debug\netcoreapp3.1\HolaMundoST.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e101-hola-mundo-SchetoT\HolaMundoST\HolaMundoST\bin\Debug\netcoreapp3.1\HolaMundoST.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e101-hola-mundo-SchetoT\HolaMundoST\HolaMundoST\bin\Debug\netcoreapp3.1\HolaMundoST.pdb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e101-hola-mundo-SchetoT\HolaMundoST\HolaMundoST\obj\Debug\netcoreapp3.1\HolaMundoST.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e101-hola-mundo-SchetoT\HolaMundoST\HolaMundoST\obj\Debug\netcoreapp3.1\HolaMundoST.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e101-hola-mundo-SchetoT\HolaMundoST\HolaMundoST\obj\Debug\netcoreapp3.1\HolaMundoST.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e101-hola-mundo-SchetoT\HolaMundoST\HolaMundoST\obj\Debug\netcoreapp3.1\HolaMundoST.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e101-hola-mundo-SchetoT\HolaMundoST\HolaMundoST\obj\Debug\netcoreapp3.1\HolaMundoST.dll
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e101-hola-mundo-SchetoT\HolaMundoST\HolaMundoST\obj\Debug\netcoreapp3.1\HolaMundoST.pdb
+C:\Users\Usuario\source\repos\normal10as\pg2-s19e101-hola-mundo-SchetoT\HolaMundoST\HolaMundoST\obj\Debug\netcoreapp3.1\HolaMundoST.genruntimeconfig.cache
